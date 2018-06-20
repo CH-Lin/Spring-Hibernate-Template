@@ -1,0 +1,7 @@
+/target/
+/.gradle/
+/config/
+/bin/
+/build/
+.DS_Store
+pom.xml
